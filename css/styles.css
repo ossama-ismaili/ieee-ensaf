@@ -1,0 +1,93 @@
+.jumbotron{
+    padding: 50px 10px 50px 10px;
+    margin-top: 50px;
+    margin-bottom:15px;
+    background-color: #68e;
+    border-radius: 0px 0px 5px 5px;
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 26px;
+}
+
+
+.footer-content{
+    padding: 25px 15px 5px 15px;
+    margin-top: 15px;
+    background-color: #1D2B36;
+    color: #fff;
+}
+
+.footer-content li{
+    font-weight: 300;
+    color: #ccc;
+}
+
+.footer-content a{
+    color: #ccc;
+}
+
+.footer-line{
+    padding: 10px;
+    border-top:1px solid #5f5f5f ;
+}
+
+.media-list{
+    padding: 0;
+    margin: 0;
+}
+
+.media-list li{
+    margin:10px;
+    display: inline;
+    text-align: center;
+}
+
+/** Aticle style **/
+
+.blog-title h1{
+    font-size: 24px;
+    color: #1f1f1f;
+    font-family: sans-serif;
+}
+
+.blog-subtitle img{
+    border-radius: 50%;
+    width:50px;
+    float: left;
+}
+
+.blog-card{
+    box-shadow: #91a1af 4px 4px 5px 3px;
+}
+
+.author-infos h2{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 0px 0px 60px;
+    margin: 0;
+}
+
+.author-infos time{
+    font-size: 12px;
+    padding-left:12px;
+    margin: 0;
+}
+
+.blog-text{
+    margin-top: 10px;
+    color: #6f6f6f;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+.title-articles{
+    font-family: 'Roboto';
+    font-size: 28px;
+    color:#1f1f1f;
+}
+
+.test-about{
+    text-align: center;
+    padding: 100px;
+}
