@@ -1,8 +1,8 @@
 <?php 
-    $servername = "sql202.epizy.com";
-    $username = "epiz_26130901";
-    $password = "aiwQMJYK9aK";
-    $dbName="epiz_26130901_ieeedb";
+    $servername = "localhost";
+    $username = "root";
+    $password = "";
+    $dbName="ieeedb";
     
     // Create connection
     $conn = new mysqli($servername, $username, $password,$dbName);
